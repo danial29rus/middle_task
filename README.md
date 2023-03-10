@@ -15,7 +15,7 @@
 
 
 
-Для запуска 
+## Для запуска 
 
 git clone https://github.com/danial29rus/middle_task.git
 
