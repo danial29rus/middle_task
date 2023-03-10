@@ -1,6 +1,6 @@
 # middle_task
 
-#Тестовое задание на позицию Middle Python Developer
+# Тестовое задание на позицию Middle Python Developer
 
 Необходимо было создать 3 ручки:
 
